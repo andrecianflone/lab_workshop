@@ -1,5 +1,5 @@
-# RLLab/Mila Workshop
-This repo collects the material for the research workshop on June 27, 2018.
+# RLLab/Mila Research Workshop
+This repo collects the material for the research workshop, given June 27, 2018.
 
 Andre:
 - Einsum [colab notebook](https://colab.research.google.com/drive/1MJDZm-ST1pNZiz1aXT-z7KS_u_j3P4F7)
