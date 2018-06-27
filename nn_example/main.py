@@ -13,6 +13,7 @@ num_classes = 10
 num_epochs = 20
 learning_rate = 1e-3
 
+
 def train(train_loader, test_loader, optimizer, model, criterion):
     for epoch in range(num_epochs):
 

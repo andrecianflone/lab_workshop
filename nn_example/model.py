@@ -10,7 +10,7 @@ class MLP(nn.Module):
 
         self.l1 = nn.Linear(input_size, hidden_size)
         self.l2 = nn.Linear(hidden_size, hidden_size)
-        self.l3 = nn.Linear(hidden_size, num_classes)
+        self.l3 = nn.Linear(33, num_classes)
 
     def forward(self, x):
         x = F.relu(self.l1(x))
