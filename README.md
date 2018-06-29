@@ -15,4 +15,4 @@ Andre:
 - A quick [vim tutorial](https://github.com/andrecianflone/vimrc/blob/master/vim_tutorial.md)
 
 Evgeny:
-- Compute Canada slides
+- [Compute Canada slides](compute_canada/)
